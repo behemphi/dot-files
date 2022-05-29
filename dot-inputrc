@@ -1,0 +1,3 @@
+# Allow the interactive python prompt in the terminal to behave like vim
+set editing-mode vi
+set keymap vi-command
