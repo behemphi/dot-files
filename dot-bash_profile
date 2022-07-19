@@ -3,6 +3,9 @@
 # .bash_profile which is generally either not present or barely used on most
 # fresh user accounts.
 
+# zsh prompt (mac)
+PROMPT='%F{cyan}%n%f - %F{red}%*%B%f - %F{blue}%d%f >'
+
 # Allow the terminal command line to behave like vim
 set -o vi
 
