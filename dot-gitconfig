@@ -1,3 +1,13 @@
 [user]
-	email = behemphi@gmail.com
-	name = Boyd Hemphill
+        email = behemphi@gmail.com
+        name = Boyd Hemphill
+        signingkey = 699A158FD348A4876B47C8A8746EE543703F8176
+[commit]
+        gpgsign = true
+[core]
+        excludesFile = ~/.gitignore
+[alias]
+        br = branch
+        co = checkout
+        st = status
+
