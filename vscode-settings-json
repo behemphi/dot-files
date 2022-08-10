@@ -1,0 +1,13 @@
+{
+    // rulers
+    "editor.rulers": [88, 100, 120],
+
+    // indentation
+    // When opening a file, `editor.tabSize` and `editor.insertSpaces` will be detected based on the file contents.
+    "editor.detectIndentation": true,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+ 
+    // workbench
+    "workbench.colorTheme": "Default Dark+",
+}
