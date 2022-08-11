@@ -8,6 +8,7 @@
         excludesFile = ~/.gitignore
 [alias]
         br = branch
-        co = checkout
+        cho = checkout
+        co = commit
+        pu = push origin main
         st = status
-
