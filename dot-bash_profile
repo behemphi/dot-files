@@ -6,6 +6,9 @@
 # zsh prompt (mac)
 PROMPT='%F{cyan}%n%f - %F{red}%*%B%f - %F{blue}%d%f >'
 
+# Alias
+alias ll="ls -lah"
+
 # Allow the terminal command line to behave like vim
 set -o vi
 
